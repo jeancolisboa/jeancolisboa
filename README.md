@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @jeancolisboa
+- 👋 Olá, me chamo Jean Carlo Oliveira Lisboa.
 - 👀 Tenho 18 anos e sou um entusiasta da tecnologia.
 - 📫 How to reach me ...
 
