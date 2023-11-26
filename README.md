@@ -12,7 +12,7 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancolisboa&show_icons=true&theme=dracula)
-<img align="right" width="380" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
