@@ -1,14 +1,16 @@
 ## Olá, eu sou o Jean Carlo Oliveira Lisboa.
 - 👀 Tenho 18 anos e sou um entusiasta da tecnologia.
 - 📫 Estou estudando e tenho conhecimento em tecnologias como:
-  - Protocolo HTTP
-  - API
-  - Versionamento de código
-  - Kotlin
-  - HTML
-  - CSS
-  - PHP
-  - TypeScript
+ - HTML
+- CSS
+- TypeScricpt
+- Angular (Básico)
+- Kotlin (Básico)
+- Java (Básico)
+- API
+- Protocolo HTTP
+- Git/ GitHub
+- SQL
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeancolisboa&show_icons=true&theme=dracula)
