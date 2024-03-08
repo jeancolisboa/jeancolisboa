@@ -3,10 +3,10 @@
 - 📫 Estou estudando e tenho conhecimento em tecnologias como:
  - HTML
 - CSS
-- TypeScricpt
-- Angular (Básico)
 - Kotlin (Básico)
 - Java (Básico)
+- TypeScricpt
+- Angular (Básico)
 - API
 - Protocolo HTTP
 - Git/ GitHub
