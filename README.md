@@ -1,9 +1,9 @@
 ## Olá, eu sou o Jean Carlo Oliveira Lisboa.
-- 👀 Tenho 18 anos e sou um entusiasta da tecnologia.
+- 👀 Tenho 19 anos e sou um entusiasta da tecnologia.
 - 📫 Estou estudando e tenho conhecimento em tecnologias como:
- - HTML
+- HTML
 - CSS
-- Kotlin (Básico)
+- Kotlin
 - Java (Básico)
 - TypeScricpt
 - Angular (Básico)
