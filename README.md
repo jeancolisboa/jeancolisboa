@@ -4,12 +4,16 @@
 - HTML
 - CSS
 - Kotlin
+- ROOM
+- Retrofit
+- Data Binding
 - Java (Básico)
 - TypeScricpt
 - Angular (Básico)
-- API
+- Rest API
 - Protocolo HTTP
 - Git/ GitHub
+- Scrum
 - SQL
 
 ##
